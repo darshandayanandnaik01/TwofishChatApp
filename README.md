@@ -93,3 +93,9 @@ TwofishChat/
 ├── server.py        # Flask-SocketIO server for message relay
 ├── .gitignore       # Ignore venv and cache files
 └── README.md        # Project information and usage guide
+
+👨‍💻 About the Developer
+
+Darshan
+💡 Passionate about Python, cybersecurity, and encryption-based applications.
+Building secure and efficient systems to explore real-world cryptography.
