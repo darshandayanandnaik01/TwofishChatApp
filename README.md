@@ -3,7 +3,7 @@ Secure Python chat app using AES-256-GCM encryption and Flask-SocketIO — by Da
 
 
 # 🔐 TwofishChat — Encrypted Chat Application  
-### Developed by **Darshan
+### Developed by Darshan
 
 A **secure Python chat app** using **AES-256-GCM** encryption and **Flask-SocketIO** for real-time, end-to-end encrypted communication.  
 Messages are protected using a secure **X25519 key exchange** with automatic handshake.  
